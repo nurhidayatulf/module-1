@@ -30,9 +30,9 @@ public class ExerciseDay2 {
         int num = reader.nextInt();
 
         if(num % 2 == 0)
-            System.out.println(num + " is even");
+            System.out.println(num + " isEven = true");
         else
-            System.out.println(num + " is odd");
+            System.out.println(num + " isEven = false");
 
         //4. Write a code to remove the first occurrence of a given “search string” from a string
         String originalString = "Hello world";
