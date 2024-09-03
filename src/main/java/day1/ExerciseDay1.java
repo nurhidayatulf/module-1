@@ -5,14 +5,14 @@ import java.time.temporal.ChronoUnit;
 
 public class ExerciseDay1 {
     public static void main(String[] args) {
-        //Find area of rectangle
+        //1. Find area of rectangle
         int length = 5;
         int width = 3;
-        int area = length * width;
+        int areaOfRectangle = length * width;
 
-        System.out.println(area);
+        System.out.println(areaOfRectangle);
 
-        //Find diameter, circumference and area of a circle
+        //2. Find diameter, circumference and area of a circle
         int radius = 5;
         float phi = 3.1415F;
         int diameterOfCircle = 2 * radius;
@@ -23,14 +23,14 @@ public class ExerciseDay1 {
         System.out.println("Circumference = " + circumferenceOfCircle);
         System.out.println("Area = " + areaOfCircle);
 
-        //Find angles of triangle if two angles are given
-        int a = 80;
-        int b = 65;
-        int c = 180 - (a + b);
+        //3. Find angles of triangle if two angles are given
+        int angle1 = 80;
+        int angle2 = 65;
+        int angle3 = 180 - (angle1 + angle2);
 
-        System.out.println(c);
+        System.out.println(angle3);
 
-        //Get difference between dates in days
+        //4. Get difference between dates in days
         String firstDate = "2024-03-19";
         String secondDate = "2024-03-21";
 
@@ -41,7 +41,7 @@ public class ExerciseDay1 {
 
         System.out.println(daysBetween);
 
-        //Print your name initial in uppercase
+        //5. Print your name initial in uppercase
         String myName = "Nur Hidayatul Fatihah";
 
         // Split the name into parts
