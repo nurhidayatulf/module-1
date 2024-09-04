@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/FibonacciSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/LargestElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/PrimeNumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/SortAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/VowelCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/ExerciseDay3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day3/FibonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/FibonacciSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +64,10 @@
     "Gradle.module-1 [:day3.LargestElementInArray.main()].executor": "Run",
     "Gradle.module-1 [:day3.PrimeNumberCheck.main()].executor": "Run",
     "Gradle.module-1 [:day3.SimpleCalculator.main()].executor": "Run",
+    "Gradle.module-1 [:day3.SortAnArray.main()].executor": "Run",
     "Gradle.module-1 [:day3.StringReverse.main()].executor": "Run",
     "Gradle.module-1 [:day3.SumOfDigits.main()].executor": "Run",
+    "Gradle.module-1 [:day3.VowelCount.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
