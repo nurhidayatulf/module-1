@@ -10,7 +10,7 @@ public class ExerciseDay2 {
         System.out.print("Input a degree in Fahrenheit: ");
         double fahrenheit = input.nextDouble();
 
-        double  celsius =(( 5 *(fahrenheit - 32.0)) / 9.0);
+        double  celsius = (( 5 *(fahrenheit - 32.0)) / 9.0);
         System.out.println(fahrenheit + " degree Fahrenheit = " + celsius + " degree Celsius");
 
         //2.Write a code to convert centimeter to kilometer
