@@ -66,6 +66,19 @@ public class ExerciseDay3 {
                 System.out.println("Entered operator is invalid");
         }
         System.out.println("Result : " + result);
+
+        //5. Write a function to reverse a string without using built-in reverse functions.
+        Scanner inputScanner4 = new Scanner(System.in);
+        System.out.print("Input word : ");
+        String word = inputScanner4.nextLine();
+
+        char[] chars = word.toCharArray();
+        String reversedWord = "";
+
+        for (int i = chars.length - 1; i >= 0; i--) {
+            reversedWord += chars[i];
+        }
+        System.out.println("Reversed word: " + reversedWord);
     }
 
     public static int SumOfDigits(int inputNumber) {
