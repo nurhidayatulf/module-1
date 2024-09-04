@@ -13,13 +13,13 @@ public class VowelCount {
         System.out.println("Number of vowels: " + vowelCount);
     }
 
-    public static int countVowels(String word) {
+    public static int countVowels(String inputWord) {
         int count = 0;
 
-        for (int i = 0; i < word.length(); i++) {
-            char ch = word.charAt(i);
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
-                    ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+        for (int i = 0; i < inputWord.length(); i++) {
+            char character = inputWord.charAt(i);
+            if (character == 'a' || character == 'e' || character == 'i' || character == 'o' || character == 'u' ||
+                    character == 'A' || character == 'E' || character == 'I' || character == 'O' || character == 'U') {
                 count++;
             }
         }

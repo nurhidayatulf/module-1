@@ -5,23 +5,23 @@ import java.util.Scanner;
 public class PrimeNumberCheck {
     public static void main(String[] args) {
         //2. Create a function to check if a number is prime.
-        Scanner inputScanner2 = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Input number to prime check: ");
-        int inputNumber2 = inputScanner2.nextInt();
+        int inputNumber = scanner.nextInt();
 
-        if (isPrime(inputNumber2)) {
-            System.out.println(inputNumber2 + " is a prime number");
+        if (isPrime(inputNumber)) {
+            System.out.println(inputNumber + " is a prime number");
         } else {
-            System.out.println(inputNumber2 + " is not a prime number");
+            System.out.println(inputNumber + " is not a prime number");
         }
     }
 
-    public static boolean isPrime (int number) {
-        if (number <= 1) {
+    public static boolean isPrime (int inputNumber) {
+        if (inputNumber <= 1) {
             return false;
         }
-        for (int i = 2; i <= Math.sqrt(number); i++) {
-            if (number % i == 0) {
+        for (int i = 2; i <= Math.sqrt(inputNumber); i++) {
+            if (inputNumber % i == 0) {
                 return false;
             }
         }
