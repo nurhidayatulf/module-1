@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day4/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day4/NumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day4/ReadsNumberInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day4/StarsPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day4/SwapCharacterCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +60,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.module-1 [:com.nurhidayatulf.day4.MultiplicationTable.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day4.NumberGuessingGame.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day4.ReadsNumberInput.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day4.StarsPattern.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day4.SwapCharacterCase.main()].executor": "Run",
     "Gradle.module-1 [:day1.Circle.main()].executor": "Run",
     "Gradle.module-1 [:day1.ExerciseDay1.main()].executor": "Run",
     "Gradle.module-1 [:day1.RectangleArea.main()].executor": "Run",
