@@ -1,4 +1,4 @@
-package day1;
+package com.nurhidayatulf.day1;
 
 public class RectangleArea {
     public static void main(String[] args) {

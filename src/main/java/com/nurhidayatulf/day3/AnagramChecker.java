@@ -1,4 +1,4 @@
-package day3;
+package com.nurhidayatulf.day3;
 
 import java.util.Arrays;
 import java.util.Scanner;

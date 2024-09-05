@@ -1,4 +1,4 @@
-package day3;
+package com.nurhidayatulf.day3;
 
 public class SortAnArray {
     public static void main(String[] args) {

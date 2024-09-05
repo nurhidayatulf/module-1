@@ -1,4 +1,4 @@
-package day2;
+package com.nurhidayatulf.day2;
 
 public class RemoveFirstOccurence {
     public static void main(String[] args) {

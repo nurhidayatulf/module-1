@@ -1,4 +1,4 @@
-package day1;
+package com.nurhidayatulf.day1;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
