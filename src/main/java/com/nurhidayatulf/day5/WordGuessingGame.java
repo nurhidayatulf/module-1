@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class WordGuessingGame {
     //1. Complete the implementation of the Word Guessing Game by filling in the missing method implementations. Each method should perform a specific task in the game.
-    private static final String[] WORDS = {"JAVA", "PROGRAMMING", "DEVELOPER", "COMPUTER", "GITHUB"};
+    private static final String[] words = {"JAVA", "PROGRAMMING", "DEVELOPER", "COMPUTER", "GITHUB"};
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -36,7 +36,7 @@ public class WordGuessingGame {
     //select random words from array
     public static String selectRandomWord() {
         Random random = new Random();
-        return WORDS[random.nextInt(WORDS.length)];
+        return words[random.nextInt(words.length)];
     }
 
     //create and return a string of underscores
