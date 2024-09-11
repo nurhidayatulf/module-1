@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/CheckDuplicatesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/RemoveDuplicatesElementOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +67,7 @@
     "Gradle.module-1 [:com.nurhidayatulf.day5.WordGuessingGame.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day6.ArrayRotation.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day6.CheckDuplicatesArray.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day6.RemoveDuplicatesElementOfArray.main()].executor": "Run",
     "Gradle.module-1 [:day1.Circle.main()].executor": "Run",
     "Gradle.module-1 [:day1.ExerciseDay1.main()].executor": "Run",
     "Gradle.module-1 [:day1.RectangleArea.main()].executor": "Run",
