@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/FindAllDuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/RemoveOccurenceInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/SortArrayInAscDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/WarmerTemperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/RemoveDuplicatesElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day6/RemoveDuplicatesElementOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day7/CalculateAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day7/CalculateAverage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +74,13 @@
     "Gradle.module-1 [:com.nurhidayatulf.day5.WordGuessingGame.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day6.ArrayRotation.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day6.CheckDuplicatesArray.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day6.FindAllDuplicatesInArray.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day6.RemoveDuplicatesElementOfArray.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day6.RemoveOccurenceInArray.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day6.ReverseString.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day6.SortArrayInAscDesc.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day6.WarmerTemperature.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day7.CalculateAverage.main()].executor": "Run",
     "Gradle.module-1 [:day1.Circle.main()].executor": "Run",
     "Gradle.module-1 [:day1.ExerciseDay1.main()].executor": "Run",
     "Gradle.module-1 [:day1.RectangleArea.main()].executor": "Run",
