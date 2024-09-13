@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/ToDoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/ToDoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/AuthManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/MainToDoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/ToDoManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +78,7 @@
     "Gradle.module-1 [:com.nurhidayatulf.day7.CalculateAverage.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day7.SummaryOfProductSales.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day8.SimpleTicketingSystem.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day9.MainToDoApplication.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day9.ToDoApp.main()].executor": "Run",
     "Gradle.module-1 [:day1.Circle.main()].executor": "Run",
     "Gradle.module-1 [:day1.ExerciseDay1.main()].executor": "Run",
