@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day8/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day8/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day8/TicketingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day8/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/TaskManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/ToDoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day9/UserManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day8/SimpleTicketingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day8/SimpleTicketingSystem.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
