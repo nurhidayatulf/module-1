@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c05dcb3-a084-4393-b1d5-5c9667dc4774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/Audiobook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/LibraryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/LibraryMaterial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day11/JavaQueueProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day11/JavaStackProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day11/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/Audiobook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nurhidayatulf/day10/Audiobook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +59,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build module-1.executor": "Run",
     "Gradle.module-1 [:LibraryManager.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day1.AnglesOfTriangle.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day1.Circle.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day10.LibraryManager.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day11.JavaQueueProgram.main()].executor": "Run",
+    "Gradle.module-1 [:com.nurhidayatulf.day11.JavaStackProgram.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day2.TemperatureConverter.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day4.MultiplicationTable.main()].executor": "Run",
     "Gradle.module-1 [:com.nurhidayatulf.day4.NumberGuessingGame.main()].executor": "Run",

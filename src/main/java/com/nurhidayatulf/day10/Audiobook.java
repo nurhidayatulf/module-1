@@ -1,7 +1,7 @@
 package com.nurhidayatulf.day10;
 
 public class Audiobook extends LibraryMaterial {
-    private int duration;
+    private final int duration;
 
     public Audiobook(String title, int availableCount, int duration) {
         super(title, availableCount);
